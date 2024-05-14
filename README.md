@@ -8,6 +8,8 @@
 
 ## Data
 [LA_MAUP.ipynb](LA_MAUP.ipynb) <br>
+The data are retrieved from Redistricting Data Hub on 04/10/2024.
+
 All data used in this project:
 - [Louisiana block PL 94-171 2020 (by table)](https://redistrictingdatahub.org/dataset/louisiana-block-pl-94171-2020-by-table/)
 - [VEST 2020 Louisiana precinct and election results](https://redistrictingdatahub.org/dataset/vest-2020-louisiana-precinct-and-election-results/)
