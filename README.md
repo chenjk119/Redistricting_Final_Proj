@@ -1,7 +1,12 @@
 # Redistricting_Final_Proj
 
-## short burst
-short_burst_run.ipynb <br>
+## Table of Contents
+
+## Gathering and Cleaning of data
+[LA_MAUP.ipynb](LA_MAUP.ipynb) <br>
+
+## Short Burst
+[short_burst_run.ipynb](short_burst_run.ipynb) <br>
 updater: 
 - population
 - black
